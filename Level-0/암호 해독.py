@@ -9,3 +9,9 @@ def solution(cipher, code):
     
 # 해설
 # 배수의 개념= 나누기가 0
+
+def solution(cipher, code):
+    answer = cipher[code-1::code]
+    return answer
+
+#리스트 슬라이싱 [시작:끝:스텝]
