@@ -12,4 +12,4 @@
 ### [level 0]
 |번호|문제|풀이|
 |---|---|---|
-|1|?||
+|1|?|[?](https://github.com/Fccbcc/Programmers-test/blob/main/Level-0/test1)|
