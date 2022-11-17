@@ -15,5 +15,6 @@
 |1|test|[test](https://github.com/Fccbcc/Programmers-test/blob/main/Level-0/test1)|
 
 ### [level 1]
+|번호|문제|풀이|
 |---|---|---|
 |1|test|[test](https://github.com/Fccbcc/Programmers-test/blob/main/Level-1/test-1)|
