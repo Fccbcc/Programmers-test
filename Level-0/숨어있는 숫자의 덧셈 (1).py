@@ -19,8 +19,15 @@ def solution(my_string):
   
   #다른 해설
   
-  def solution(my_string):
+def solution(my_string):
     return sum(int(i) for i in my_string if i.isdigit())
+
+def solution(my_string):
+    answer = 0
+    for i in my_string:
+        if i.isdigit():
+            answer += int(i)
+    return answer
 #.isdigit()문자열이 '숫자'로만 이루어져있는지 확인하는 함수
 #isdecimal()isdigit()isnumeric()
 #.isalpha()문자열이 '알파벳'로만 이루어져있는지 확인하는 함수
