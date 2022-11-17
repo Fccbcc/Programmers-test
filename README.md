@@ -12,7 +12,7 @@
 ### [level 0]
 |번호|문제|풀이|
 |---|---|---|
-|1|test|[test](https://github.com/Fccbcc/Programmers-test/blob/main/Level-0/test1)|
+|1|[직각삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/120823?language=python3)|[풀이](https://school.programmers.co.kr/learn/courses/30/lessons/120823?language=python3)|
 
 ### [level 1]
 |번호|문제|풀이|
