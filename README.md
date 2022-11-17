@@ -19,7 +19,7 @@
 |5|[옹알이](https://school.programmers.co.kr/learn/courses/30/lessons/120956)|[풀이](https://github.com/Fccbcc/Programmers-test/blob/main/Level-0/%EC%98%B9%EC%95%8C%EC%9D%B4.py)|
 |6|[가위 바위 보](https://school.programmers.co.kr/learn/courses/30/lessons/120839)|[풀이](https://github.com/Fccbcc/Programmers-test/blob/main/Level-0/%EA%B0%80%EC%9C%84%20%EB%B0%94%EC%9C%84%20%EB%B3%B4.py)|
 |7|[대문자와 소문자](https://school.programmers.co.kr/learn/courses/30/lessons/120893?language=python3)|[풀이](https://github.com/Fccbcc/Programmers-test/blob/main/Level-0/%EB%8C%80%EB%AC%B8%EC%9E%90%EC%99%80%20%EC%86%8C%EB%AC%B8%EC%9E%90.py)|
-|8|[]()|[풀이]()|
+|8|[외계행성의 나이](https://school.programmers.co.kr/learn/courses/30/lessons/120834)|[풀이](https://github.com/Fccbcc/Programmers-test/blob/main/Level-0/%EC%99%B8%EA%B3%84%ED%96%89%EC%84%B1%EC%9D%98%20%EB%82%98%EC%9D%B4.py)|
 |9|[]()|[풀이]()|
 |10|[]()|[풀이]()|
 |11|[]()|[풀이]()|
