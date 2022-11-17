@@ -23,7 +23,7 @@
 |9|[인덱스 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/120895)|[풀이](https://github.com/Fccbcc/Programmers-test/blob/main/Level-0/%EC%9D%B8%EB%8D%B1%EC%8A%A4%20%EB%B0%94%EA%BE%B8%EA%B8%B0.py)|
 |10|[배열 회전시키기](https://school.programmers.co.kr/learn/courses/30/lessons/120844)|[풀이](https://github.com/Fccbcc/Programmers-test/blob/main/Level-0/%EB%B0%B0%EC%97%B4%20%ED%9A%8C%EC%A0%84%EC%8B%9C%ED%82%A4%EA%B8%B0.py)|
 |11|[암호 해독](https://school.programmers.co.kr/learn/courses/30/lessons/120892)|[풀이](https://github.com/Fccbcc/Programmers-test/blob/main/Level-0/%EC%95%94%ED%98%B8%20%ED%95%B4%EB%8F%85.py)|
-|12|[]()|[풀이]()|
+|12|[369게임](https://school.programmers.co.kr/learn/courses/30/lessons/120891)|[풀이](https://github.com/Fccbcc/Programmers-test/blob/main/Level-0/369%EA%B2%8C%EC%9E%84.py)|
 |13|[]()|[풀이]()|
 |14|[]()|[풀이]()|
 |15|[]()|[풀이]()|
@@ -46,4 +46,23 @@
 ### [level 1]
 |번호|문제|풀이|
 |---|---|---|
-|1|test|[test](https://github.com/Fccbcc/Programmers-test/blob/main/Level-1/test-1)|
+|1|[]()|[풀이]()|
+|2|[]()|[풀이]()|
+|3|[]()|[풀이]()|
+|4|[]()|[풀이]()|
+|5|[]()|[풀이]()|
+|6|[]()|[풀이]()|
+|7|[]()|[풀이]()|
+|8|[]()|[풀이]()|
+|9|[]()|[풀이]()|
+|10|[]()|[풀이]()|
+|11|[]()|[풀이]()|
+|12|[]()|[풀이]()|
+|13|[]()|[풀이]()|
+|14|[]()|[풀이]()|
+|15|[]()|[풀이]()|
+|16|[]()|[풀이]()|
+|17|[]()|[풀이]()|
+|18|[]()|[풀이]()|
+|19|[]()|[풀이]()|
+|20|[]()|[풀이]()|
