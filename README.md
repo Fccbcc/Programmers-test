@@ -17,11 +17,30 @@
 |3|[모음제거](https://school.programmers.co.kr/learn/courses/30/lessons/120849)|[풀이](https://github.com/Fccbcc/Programmers-test/blob/main/Level-0/%EB%AA%A8%EC%9D%8C%EC%A0%9C%EA%B1%B0.py)|
 |4|[숨어있는 숫자의 덧셈 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120851)|[풀이](https://github.com/Fccbcc/Programmers-test/blob/main/Level-0/%EC%88%A8%EC%96%B4%EC%9E%88%EB%8A%94%20%EC%88%AB%EC%9E%90%EC%9D%98%20%EB%8D%A7%EC%85%88%20(1).py)|
 |5|[옹알이](https://school.programmers.co.kr/learn/courses/30/lessons/120956)|[풀이](https://github.com/Fccbcc/Programmers-test/blob/main/Level-0/%EC%98%B9%EC%95%8C%EC%9D%B4.py)|
-|6|||
-|7|||
-|8|||
-|9|||
-|10|||
+|6|[]()|[풀이]()|
+|7|[]()|[풀이]()|
+|8|[]()|[풀이]()|
+|9|[]()|[풀이]()|
+|10|[]()|[풀이]()|
+|11|[]()|[풀이]()|
+|12|[]()|[풀이]()|
+|13|[]()|[풀이]()|
+|14|[]()|[풀이]()|
+|15|[]()|[풀이]()|
+|16|[]()|[풀이]()|
+|18|[]()|[풀이]()|
+|19|[]()|[풀이]()|
+|20|[]()|[풀이]()|
+|21|[]()|[풀이]()|
+|22|[]()|[풀이]()|
+|23|[]()|[풀이]()|
+|24|[]()|[풀이]()|
+|25|[]()|[풀이]()|
+|26|[]()|[풀이]()|
+|27|[]()|[풀이]()|
+|28|[]()|[풀이]()|
+|29|[]()|[풀이]()|
+|30|[]()|[풀이]()|
 
 
 ### [level 1]
