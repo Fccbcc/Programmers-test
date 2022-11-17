@@ -24,9 +24,9 @@
 |10|[배열 회전시키기](https://school.programmers.co.kr/learn/courses/30/lessons/120844)|[풀이](https://github.com/Fccbcc/Programmers-test/blob/main/Level-0/%EB%B0%B0%EC%97%B4%20%ED%9A%8C%EC%A0%84%EC%8B%9C%ED%82%A4%EA%B8%B0.py)|
 |11|[암호 해독](https://school.programmers.co.kr/learn/courses/30/lessons/120892)|[풀이](https://github.com/Fccbcc/Programmers-test/blob/main/Level-0/%EC%95%94%ED%98%B8%20%ED%95%B4%EB%8F%85.py)|
 |12|[369게임](https://school.programmers.co.kr/learn/courses/30/lessons/120891)|[풀이](https://github.com/Fccbcc/Programmers-test/blob/main/Level-0/369%EA%B2%8C%EC%9E%84.py)|
-|13|[]()|[풀이]()|
-|14|[]()|[풀이]()|
-|15|[]()|[풀이]()|
+|13|[합성수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120846)|[풀이](https://github.com/Fccbcc/Programmers-test/blob/main/Level-0/%ED%95%A9%EC%84%B1%EC%88%98%20%EC%B0%BE%EA%B8%B0.py)|
+|14|[모스부호 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120838)|[풀이](https://github.com/Fccbcc/Programmers-test/blob/main/Level-0/%EB%AA%A8%EC%8A%A4%EB%B6%80%ED%98%B8%20(1).py)|
+|15|[k의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120887)|[풀이](https://github.com/Fccbcc/Programmers-test/blob/main/Level-0/k%EC%9D%98%20%EA%B0%9C%EC%88%98.py)|
 |16|[]()|[풀이]()|
 |18|[]()|[풀이]()|
 |19|[]()|[풀이]()|
