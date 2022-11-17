@@ -27,42 +27,7 @@
 |13|[합성수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120846)|[풀이](https://github.com/Fccbcc/Programmers-test/blob/main/Level-0/%ED%95%A9%EC%84%B1%EC%88%98%20%EC%B0%BE%EA%B8%B0.py)|
 |14|[모스부호 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120838)|[풀이](https://github.com/Fccbcc/Programmers-test/blob/main/Level-0/%EB%AA%A8%EC%8A%A4%EB%B6%80%ED%98%B8%20(1).py)|
 |15|[k의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120887)|[풀이](https://github.com/Fccbcc/Programmers-test/blob/main/Level-0/k%EC%9D%98%20%EA%B0%9C%EC%88%98.py)|
-|16|[]()|[풀이]()|
-|18|[]()|[풀이]()|
-|19|[]()|[풀이]()|
-|20|[]()|[풀이]()|
-|21|[]()|[풀이]()|
-|22|[]()|[풀이]()|
-|23|[]()|[풀이]()|
-|24|[]()|[풀이]()|
-|25|[]()|[풀이]()|
-|26|[]()|[풀이]()|
-|27|[]()|[풀이]()|
-|28|[]()|[풀이]()|
-|29|[]()|[풀이]()|
-|30|[]()|[풀이]()|
-
-
-### [level 1]
-|번호|문제|풀이|
-|---|---|---|
-|1|[]()|[풀이]()|
-|2|[]()|[풀이]()|
-|3|[]()|[풀이]()|
-|4|[]()|[풀이]()|
-|5|[]()|[풀이]()|
-|6|[]()|[풀이]()|
-|7|[]()|[풀이]()|
-|8|[]()|[풀이]()|
-|9|[]()|[풀이]()|
-|10|[]()|[풀이]()|
-|11|[]()|[풀이]()|
-|12|[]()|[풀이]()|
-|13|[]()|[풀이]()|
-|14|[]()|[풀이]()|
-|15|[]()|[풀이]()|
-|16|[]()|[풀이]()|
-|17|[]()|[풀이]()|
+|16|[A로 B 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120886)|[풀이](https://github.com/Fccbcc/Programmers-test/blob/main/Level-0/A%EB%A1%9C%20B%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)|
 |18|[]()|[풀이]()|
 |19|[]()|[풀이]()|
 |20|[]()|[풀이]()|
